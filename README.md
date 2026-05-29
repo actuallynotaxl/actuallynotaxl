@@ -1,4 +1,5 @@
-## Full Name: Thuta Hlyan Htet
+## Hey
+full name: Thuta Hlyan Htet
 pronouns: he/him
 
 currently learning pandas and matplotlib
